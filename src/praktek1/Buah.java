@@ -10,5 +10,18 @@ package praktek1;
  * @author proWindows 10
  */
 public class Buah {
-    
+ String WarnaKulit;
+ Double JumlahBiji;
+ String WarnaDaging;
+ String Bentuk;
+ Double Berat;
+ 
+ void busuk(){
+     System.out.println("WarnaKulit :" +WarnaKulit);
+     System.out.println("JumlahBiji :" +JumlahBiji);
+     System.out.println("WarnaDaging :" +WarnaDaging);
+     System.out.println("Bentuk :" +Bentuk);
+     System.out.println("Berat :" +Berat);
+     
+ }
 }
