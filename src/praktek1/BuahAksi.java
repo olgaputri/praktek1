@@ -33,6 +33,10 @@ public class BuahAksi {
         Semangka.Bentuk="bulat";
         Semangka.Berat= 15;
 
+                
+        Salak.busuk();
+        Rambutan.busuk();
+        Semangka.busuk();
         
     }
     
