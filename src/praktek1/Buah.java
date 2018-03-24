@@ -11,10 +11,10 @@ package praktek1;
  */
 public class Buah {
  String WarnaKulit;
- Double JumlahBiji;
+ Integer JumlahBiji;
  String WarnaDaging;
  String Bentuk;
- Double Berat;
+ Integer Berat;
  
  void busuk(){
      System.out.println("WarnaKulit :" +WarnaKulit);
